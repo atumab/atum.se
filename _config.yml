@@ -1,5 +1,3 @@
-url: "http://atumab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/atum.se" # the subpath of your site, e.g. /blog
 title: "Atum AB" # the name of your site, e.g. ACME Corp.
 email:  info@atum.se
 
