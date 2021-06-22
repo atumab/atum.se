@@ -1,0 +1,55 @@
+- app: 12E
+  imagefolder: /assets/images/tegefjall/12E/
+  caption: "Lägenhet E | "
+
+  images:
+    - name: vardagsrum3.jpg
+      text: Vardagsrum med matplats
+
+    - name: kok.jpg
+      text: Kök med matplats
+
+    - name: sovrum.jpg
+      text: Sovrum
+
+    - name: badrum.jpg
+      text: Badrum
+
+    - name: vardagsrum.jpg
+      text: Vardagsrum
+
+    - name: vardagsrum2.jpg
+      text: Vardagsrum med matplats
+
+    - name: vardagsrum4.jpg
+      text: vardagsrum
+
+    - name: kok2.jpg
+      text: Kök
+
+    - name: kok3.jpg
+      text: Kök
+
+    - name: kok4.jpg
+      text: Kök
+
+    - name: soffa.jpg
+      text: Vardagsrum
+
+    - name: soffa2.jpg
+      text: Vardagsrum
+
+    - name: dusch.jpg
+      text: Dusch och bastu
+
+    - name: matplats.jpg
+      text: Matplats
+
+    - name: utsikt.jpg
+      text: Utsikt från huset
+
+    - name: sovrum-vaningssang.jpg
+      text: Sovrum med våningssäng
+
+    - name: sovrum-dubbel.jpg
+      text: Sovrum med dubbelsäng

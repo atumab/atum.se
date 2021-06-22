@@ -1,0 +1,26 @@
+$body-color: #f2f2f2;
+$font-style: 'Open Sans', sans-serif;
+$font-color: #333333;
+
+$heading-font: 'Muli', sans-serif;
+$heading-font-color: #333333;
+
+$content-width: 800px;
+$main: #333333;
+$link-color: #264d73;
+$link-hover-color:  $main;
+
+$nav-link-color: white;
+$nav-bar-color: #0d1a26;
+$nav-box-color: #404040;
+
+$header: url(/assets/images/bjornen/10A-balkongutsikt.jpg);
+$header-font-color: white;
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

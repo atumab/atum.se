@@ -1,0 +1,142 @@
+- app: 10A
+  imagefolder: /assets/images/bjornen/10A/
+  caption: "Lägenhet A | "
+
+  images:
+    - name: planskiss.jpg
+      text: Planskiss
+
+    - name: kok.jpg
+      text: Kök
+
+    - name: koksbord.jpg
+      text: Köksbord
+
+    - name: matplats.jpg
+      text: Matplats
+
+    - name: vardagsrum.jpg
+      text: Vardagsrum
+
+    - name: nedre-sovrum.jpg
+      text: Nedre sovrum
+
+    - name: ovre-sovrum-dubbel.jpg
+      text: Övre sovrum
+
+    - name: ovre-sovrum-enkel.jpg
+      text: Övre sovrum
+
+- app: 10B
+  imagefolder: /assets/images/bjornen/10B/
+  caption: "Lägenhet B | "
+
+  images:
+    - name: planskiss.jpg
+      text: Planskiss
+
+    - name: kok.jpg
+      text: Kök
+
+    - name: matplats.jpg
+      text: Matplats
+
+    - name: matplats2.jpg
+      text: Matplats
+
+    - name: nedre-toa.jpg
+      text: Badrum nedervåning
+
+    - name: vardagsrum.jpg
+      text: Vardagsrum
+
+    - name: vardagsrum2.jpg
+      text: Vardagsrum
+
+    - name: vardagsrum3.jpg
+      text: Vardagsrum
+
+    - name: vardagsrum4.jpg
+      text: Vardagsrum
+
+    - name: nedre-sovrum.jpg
+      text: Nedre sovrum
+
+    - name: ovre-sovrum-dubbel.jpg
+      text: Övre sovrum
+
+    - name: ovre-sovrum-enkel.jpg
+      text: Övre sovrum
+
+- app: 10C
+  imagefolder: /assets/images/bjornen/10C/
+  caption: "Lägenhet C | "
+
+  images:
+    - name: hall.jpg
+      text: Hall
+
+    - name: kok.jpg
+      text: Kök
+
+    - name: kok2.jpg
+      text: Kök
+
+    - name: badrum.jpg
+      text: Badrum
+
+    - name: badrum2.jpg
+      text: Badrum
+
+    - name: bastu.jpg
+      text: Bastu
+
+    - name: matplats.jpg
+      text: Matplats
+
+    - name: vardagsrum.jpg
+      text: Vardagsrum
+
+    - name: sovrum-foraldrar.jpg
+      text: Sovrum
+
+    - name: sovrum-enkel.jpg
+      text: Sovrum
+
+- app: 10D
+  imagefolder: /assets/images/bjornen/10D/
+  caption: "Lägenhet D | "
+
+  images:
+    - name: hall.jpg
+      text: Hall
+
+    - name: kok.jpg
+      text: Kök
+
+    - name: kok2.jpg
+      text: Kök
+
+    - name: badrum.jpg
+      text: Badrum
+
+    - name: bastu.jpg
+      text: Bastu
+
+    - name: matplats.jpg
+      text: Matplats
+
+    - name: vardagsrum.jpg
+      text: Vardagsrum
+
+    - name: vardagsrum2.jpg
+      text: Vardagsrum
+
+    - name: sovrum-foraldrar.jpg
+      text: Sovrum
+
+    - name: vaningsang.jpg
+      text: Sovrum
+
+    - name: vaningsang2.jpg
+      text: Sovrum

@@ -1,0 +1,9 @@
+title: "Atum AB" # the name of your site, e.g. ACME Corp.
+email:  info@atum.se
+
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
