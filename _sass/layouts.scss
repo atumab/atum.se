@@ -18,7 +18,7 @@ header {
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
-  height: 400px;
+  height: 200px;
   padding: $padding;
   display: flex;
   justify-content: center;
@@ -49,9 +49,16 @@ footer {
   }
 }
 
+/*
+The responsive stuff
+*/
 @media (min-width: 600px) {
   .google-maps {
     height: 450px;
+  }
+
+  header {
+    height: 400px;
   }
 }
 
@@ -67,6 +74,9 @@ $content-width
   -ms-box-sizing:border-box;
 }
 
+/*
+Styling for box shadow around the content
+*/
 .content-shadow {
   box-shadow:
   0 0px 17.2px rgba(0, 0, 0, 0.011),
@@ -76,6 +86,9 @@ $content-width
   0 0px 500px rgba(0, 0, 0, 0.03);
 }
 
+/*
+Wrapper to get four images on a row
+*/
 .image-container img {
     max-width: $content-width / 4 - 14px;
 }
