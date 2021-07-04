@@ -1,0 +1,28 @@
+$backgroundColor: #f4f4f4;
+$bodyColor: #000000;
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$content-width: 800px;
+
+$nav-link-color: white;
+$nav-bar-color: #0d1a26;
+$nav-menu-color: #274e73;
+$nav-hover-color: #404040;
+
+$link-color: #264d73;
+$link-hover-color: #333333;
+
+$header-image: url(/assets/images/bjornen/10A-balkongutsikt.jpg);
+$header-font-color: white;
+
+$padding: 0 10px;
+
+a,
+a:visited {
+  color: $link-color;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  color: $link-hover-color;
+  text-decoration: underline;
+}

@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: default
 title: "Tegefjäll"
 permalink: /tegefjall/
 ---
+
+[Fasadbild 12]: /assets/images/tegefjall/fasadbild.png "Fasadbild 12"
+{: width="100%"}
 ## Smultronet 12
-<img src="/assets/images/tegefjall/fasadbild.png"
-  alt="Fasadbild 12" style="width:800px"/>
+
+![Fasadbild 12]
 
 Enplanslägenhet på nedre plan. Uthyrning sker veckovis med incheckning 15:00 och
 utcheckning 11:00 på söndagar.
@@ -22,4 +25,4 @@ ugn, micro och diskmaskin.
 **Övrigt**:  
 Tvättmaskin, torkskåp, låsbart skidförråd och altan.
 
-Det är ej tillåtet att röka eller medföra husdjur.
+Städning sker i egen regi. Det är ej tillåtet att röka eller medföra husdjur.

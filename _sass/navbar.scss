@@ -1,0 +1,113 @@
+/*
+Styling of the navigation bar
+*/
+.navbar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: $nav-bar-color;
+  color: white;
+}
+
+/*
+Styling of the navigation bars unordered-list
+*/
+.navbar ul {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  //background-color: red;
+  //overflow: hidden;
+}
+
+/*
+Styling of the navigation bars hyperlinks
+*/
+.navbar a {
+  display: block;
+  padding: 20px 10px;
+  text-decoration: none;
+  color: $nav-link-color;
+  //background-color: $nav-menu-color;
+  border-top: 1px solid $nav-link-color;
+}
+
+.navbar a:hover {
+  background-color: $backgroundColor;
+  color: $nav-bar-color;
+}
+
+/*
+Hides meny content when menu icon is not pressed
+*/
+.menu-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .2s ease-out;
+}
+
+/*
+Styling for the menu icon and text
+*/
+.menu {
+  text-transform: uppercase;
+  cursor: pointer;
+  display: inline-block;
+  padding: 15px;
+}
+
+/*
+Hide checkbox. (# is for id="")
+*/
+#menu {
+  display: none;
+}
+
+/*
+If menu or menu icon is pressed: expand the menu
+*/
+.menu:checked ~ .menu-content {
+  max-height: 100%;
+}
+
+/*
+Hamburger icon
+*/
+.hamburger {
+  background: $nav-link-color;
+  //position: relative;
+  display: inline-block;
+  width: 18px;
+  height: 2px;
+  box-shadow: inset 0 0, 0 -1*5px, 0 -2*5px;
+  margin-right: 10px;
+}
+
+/*
+Responsiveness
+*/
+@media (min-width: 600px) {
+  // Order the list horizontally
+  .navbar li {
+    float: left;
+  }
+
+  .navbar a {
+    padding: 15px;
+    background-color: $nav-bar-color;
+    border-top: none;
+  }
+
+  // Hides the meny icon
+  .menu {
+    display: none;
+  }
+
+  // Expands the menu content
+  .menu-content {
+    //clear: none;
+    max-height: 100%;
+  }
+}

@@ -1,0 +1,81 @@
+html {
+  font-size: calc(16px + 0.2vw);
+}
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  margin: 0 auto;
+  // Sticky footer
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto auto 1fr auto;
+}
+
+header {
+  background-image: $header-image;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  height: 400px;
+  padding: $padding;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: $header-font-color;
+}
+
+main {
+  margin: 0 auto;
+  max-width: $content-width;
+  width: 100%;
+  background-color: white;
+  padding: $padding;
+}
+
+footer {
+  max-width: $content-width;
+  width: 100%;
+  padding: $padding;
+  margin: 0 auto;
+  text-align: center;
+  background-color: white;
+  li {
+    list-style-type: none;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+
+@media (min-width: 600px) {
+  .google-maps {
+    height: 450px;
+  }
+}
+
+/*
+Define how total width and height is calculated.
+Removes horizontal scrolling when less then
+$content-width
+*/
+* , *:before, *:after{
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+}
+
+.content-shadow {
+  box-shadow:
+  0 0px 17.2px rgba(0, 0, 0, 0.011),
+  0 0px 43.4px rgba(0, 0, 0, 0.01),
+  0 0px 88.6px rgba(0, 0, 0, 0.008),
+  0 0px 182.5px rgba(0, 0, 0, 0.012),
+  0 0px 500px rgba(0, 0, 0, 0.03);
+}
+
+.image-container img {
+    max-width: $content-width / 4 - 14px;
+}

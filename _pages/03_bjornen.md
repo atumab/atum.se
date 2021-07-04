@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: default
 title: "Björnen"
 permalink: /bjornen/
 ---
+[Fasadbild 10]: /assets/images/bjornen/10-fasadbild.jpg "Björnenvägen 10"
+{: width="100%"}
 
 ## Välj bland våra fyra lägenheter på Björnenvägen 10
-![Fasadbild 10](/assets/images/bjornen/10-fasadbild.jpg "Björnenvägen 10")
+![Fasadbild 10]
 
 Samtliga lägenheter har fin utsikt mot både Åresjön och Åreskutan. Uthyrning
 sker veckovis med incheckning 15:00 och utcheckning 11:00 på söndagar.
@@ -23,7 +25,7 @@ med ugn, micro och diskmaskin.
 Tvättmaskin, torkskåp, parkeringsplats med motorvärmare, låsbart skidförråd,
 altan med sittplatser och barngrind.
 
-Det är ej tillåtet att röka eller medföra husdjur.
+Städning sker i egen regi. Det är ej tillåtet att röka eller medföra husdjur.
 
 ### Lägenhet B
 {% include 10B.html %}
@@ -38,7 +40,7 @@ med ugn, micro och diskmaskin.
 Tvättmaskin, torkskåp, parkeringsplats med motorvärmare, låsbart skidförråd,
 altan med sittplatser och barngrind.
 
-Det är ej tillåtet att röka eller medföra husdjur.
+Städning sker i egen regi. Det är ej tillåtet att röka eller medföra husdjur.
 
 ### Lägenhet C
 {% include 10C.html %}
@@ -53,7 +55,7 @@ ugn, micro och diskmaskin.
 Tvättmaskin, torkskåp, parkeringsplats med motorvärmare, låsbart skidförråd,
 altan med sittplatser och barngrind.
 
-Det är ej tillåtet att röka eller medföra husdjur.
+Städning sker i egen regi. Det är ej tillåtet att röka eller medföra husdjur.
 
 ### Lägenhet D
 {% include 10D.html %}
@@ -68,4 +70,4 @@ ugn, micro och diskmaskin.
 Tvättmaskin, torkskåp, parkeringsplats med motorvärmare, låsbart skidförråd,
 altan med sittplatser och barngrind.
 
-Det är ej tillåtet att röka eller medföra husdjur.
+Städning sker i egen regi. Det är ej tillåtet att röka eller medföra husdjur.

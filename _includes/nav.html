@@ -1,11 +1,14 @@
-<aside>
-  <div class="container">
-    <nav>
-      <ul>
-        {% for page in site.pages %} {% if page.title %}
-        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-        {% endif %} {% endfor %}
-      </ul>
-    </nav>
-  </div>
-</aside>
+<nav class="navbar">
+  <input class="menu" type="checkbox" id="menu"/>
+  <label class="menu" for="menu">
+    <span class="hamburger"></span>MENY</label>
+  <ul class="menu-content">
+    {% for page in site.pages %} {% if page.title %}
+    <li>
+      <a href="{{ page.url | prepend: site.baseurl }}">
+        {{ page.title }}
+      </a>
+    </li>
+    {% endif %} {% endfor %}
+  </ul>
+</nav>
