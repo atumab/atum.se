@@ -19,7 +19,7 @@ Tvåplanslägenhet på 100 m² med totalt åtta bäddar fördelat över fyra sov
 två badrum med dusch/WC samt en bastu. Köket är utrustat med kyl & frys, elspis
 med ugn, micro och diskmaskin.
 
-**Pris**: 7500 kr/vecka
+**Pris**: 8500 kr/vecka
 
 **Övrigt**:  
 Tvättmaskin, torkskåp, parkeringsplats med motorvärmare, låsbart skidförråd,
@@ -34,7 +34,7 @@ Tvåplanslägenhet på 100 m² med totalt åtta bäddar fördelat över fyra sov
 två badrum med dusch/WC samt en bastu. Köket är utrustat med kyl & frys, elspis
 med ugn, micro och diskmaskin.
 
-**Pris**: 7500 kr/vecka
+**Pris**: 8500 kr/vecka
 
 **Övrigt**:  
 Tvättmaskin, torkskåp, parkeringsplats med motorvärmare, låsbart skidförråd,
@@ -49,7 +49,7 @@ Enplanslägenhet på 58 m² med totalt sex bäddar fördelat över tre sovrum, e
 badrum med dusch/WC och bastu. Köket är utrustat med kyl & frys, elspis med
 ugn, micro och diskmaskin.
 
-**Pris**: 4500 kr/vecka
+**Pris**: 5000 kr/vecka
 
 **Övrigt**:  
 Tvättmaskin, torkskåp, parkeringsplats med motorvärmare, låsbart skidförråd,
@@ -64,7 +64,7 @@ Enplanslägenhet på 58 m² med totalt sex bäddar fördelat över tre sovrum, e
 badrum med dusch/WC och bastu. Köket är utrustat med kyl & frys, elspis med
 ugn, micro och diskmaskin.
 
-**Pris**: 4500 kr/vecka
+**Pris**: 5000 kr/vecka
 
 **Övrigt**:  
 Tvättmaskin, torkskåp, parkeringsplats med motorvärmare, låsbart skidförråd,
