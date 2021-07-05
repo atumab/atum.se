@@ -20,7 +20,7 @@ Enplanslägenhet på 57 m² med totalt sex bäddar fördelat över tre sovrum, e
 badrum med dusch/WC och bastu. Köket är utrustat med kyl & frys, elspis med
 ugn, micro och diskmaskin.
 
-**Pris**: 4500 kr/vecka
+**Pris**: 5500 kr/vecka
 
 **Övrigt**:  
 Tvättmaskin, torkskåp, låsbart skidförråd och altan.
