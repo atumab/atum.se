@@ -14,6 +14,7 @@ Enplanslägenhet på nedre plan. Uthyrning sker veckovis med incheckning 15:00 o
 utcheckning 11:00 på söndagar.
 
 ### Lägenhet E
+*Klicka på bilderna för att förstora dem.*
 {% include 12E.html %}
 
 Enplanslägenhet på 57 m² med totalt sex bäddar fördelat över tre sovrum, ett
