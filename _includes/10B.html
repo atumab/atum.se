@@ -2,10 +2,10 @@
 {% for item in site.data.bjornen_images %}
   {% if item.app == "10B" %}
     {% for entry in item.images %}
-      <a href="{{ item.imagefolder }}{{ entry.name }}"
+      <a href="{{ site.baseurl }}{{ item.imagefolder }}{{ entry.name }}"
       data-lightbox="{{ item.caption }}"
       data-title="{{ item.caption }}{{ entry.text }}">
-      <img src="{{ item.imagefolder }}{{ entry.name }}" alt="{{ entry.text }}">
+      <img src="{{ site.baseurl }}{{ item.imagefolder }}{{ entry.name }}" alt="{{ entry.text }}">
       </a>
     {% endfor %}
   {% endif %}

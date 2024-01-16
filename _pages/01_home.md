@@ -9,15 +9,15 @@ Atum AB har varit verksamma med uthyrning i Åre sedan 2003. Sedan säsongen 202
 
 ## Björnenvägen 10, Åre {#bjornenvagen}
 <div class="image-container2">
-    <a href="/assets/images/bjornen/dronarbild.jpg"
-       data-lightbox="image-1"
+    <a href="{{ "/assets/images/bjornen/dronarbild.jpg" | relative_url }}" 
+       data-lightbox="bjornenvagen"
        data-title="Björnenvägen 10 | Drönarbild">
-       <img src="/assets/images/bjornen/dronarbild.jpg">
+       <img src="{{ "/assets/images/bjornen/dronarbild.jpg"  | relative_url }}">
     </a>
-    <a href="/assets/images/bjornen/fasadbild.jpg"
-       data-lightbox="image-1"
+    <a href="{{ "/assets/images/bjornen/fasadbild.jpg" | relative_url }}"
+       data-lightbox="bjornenvagen"
        data-title="Björnenvägen 10 | Fasadbild">
-       <img src="/assets/images/bjornen/fasadbild.jpg">
+       <img src="{{ "/assets/images/bjornen/fasadbild.jpg" | relative_url }}">
     </a>
 </div>
 

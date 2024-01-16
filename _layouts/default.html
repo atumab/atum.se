@@ -3,12 +3,11 @@
 {% include head.html %}
 <body>
   {% include nav.html %}
-  <!-- {% include header.html %} -->
   <main class="content-shadow">
     {{ content }}
   </main>
   {% include footer.html %}
-  <script src="/assets/js/lightbox-plus-jquery.js"></script>
+  <script src="{{ "/assets/js/lightbox-plus-jquery.js" | relative_url }}"></script>
   <script>
     lightbox.option({
       'alwaysShowNavOnTouchDevices': true,
