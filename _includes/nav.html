@@ -3,12 +3,17 @@
   <label class="menu" for="menu">
     <span class="hamburger"></span>MENY</label>
   <ul class="menu-content">
-    {% for page in site.pages %} {% if page.title %}
-    <li>
-      <a href="{{ page.url | prepend: site.baseurl }}">
-        {{ page.title }}
-      </a>
-    </li>
-    {% endif %} {% endfor %}
+  <li>
+    <a href="{{ site.baseurl }}/#boende"> Hem </a>
+  </li>
+  <li>
+    <a href="{{ site.baseurl }}/#bjornenvagen"> Björnenvägen </a>
+  </li>
+  <li>
+    <a href="{{ site.baseurl }}/#boka"> Boka </a>
+  </li>
+  <li>
+    <a href="{{ site.baseurl }}/#hitta-hit"> Hitta hit </a>
+  </li>
   </ul>
 </nav>

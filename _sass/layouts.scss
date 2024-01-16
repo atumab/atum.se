@@ -90,5 +90,12 @@ Styling for box shadow around the content
 Wrapper to get four images on a row
 */
 .image-container img {
-    max-width: $content-width / 4 - 14px;
+    max-width: calc($content-width / 4) - 14px;
+}
+
+/*
+Wrapper to get two images on a row
+*/
+.image-container2 img {
+    max-width: calc($content-width / 2) - 14px;
 }

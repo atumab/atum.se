@@ -3,7 +3,7 @@
 {% include head.html %}
 <body>
   {% include nav.html %}
-  {% include header.html %}
+  <!-- {% include header.html %} -->
   <main class="content-shadow">
     {{ content }}
   </main>
@@ -13,6 +13,7 @@
     lightbox.option({
       'alwaysShowNavOnTouchDevices': true,
       'disableScrolling': true,
+      'wrapAround': true
     })
   </script>
   <!-- Lightbox2:

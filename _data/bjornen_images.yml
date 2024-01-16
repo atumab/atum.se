@@ -1,39 +1,22 @@
-- app: 10A
-  imagefolder: /assets/images/bjornen/10A/
-  caption: "Lägenhet A | "
-
-  images:
-    - name: planskiss.jpg
-      text: Planskiss
-
-    - name: kok.jpg
-      text: Kök
-
-    - name: koksbord.jpg
-      text: Köksbord
-
-    - name: matplats.jpg
-      text: Matplats
-
-    - name: vardagsrum.jpg
-      text: Vardagsrum
-
-    - name: nedre-sovrum.jpg
-      text: Nedre sovrum
-
-    - name: ovre-sovrum-dubbel.jpg
-      text: Övre sovrum
-
-    - name: ovre-sovrum-enkel.jpg
-      text: Övre sovrum
-
 - app: 10B
   imagefolder: /assets/images/bjornen/10B/
-  caption: "Lägenhet B | "
+  caption: "Lägenhet 10B | "
 
   images:
-    - name: planskiss.jpg
-      text: Planskiss
+    - name: entre.jpg
+      text: Entré
+
+    - name: toalett_nedervaning.jpg
+      text: Toalett på nedervåning
+
+    - name: dusch_bastu.jpg
+      text: Bastu och dusch på nedervåning
+      
+    - name: sovrum2_entreplan.jpg
+      text: Sovrum med våningssäng på entréplan
+
+    - name: sovrum1_entreplan.jpg
+      text: Sovrum med dubbelbädd på entréplan
 
     - name: kok.jpg
       text: Kök
@@ -41,102 +24,26 @@
     - name: matplats.jpg
       text: Matplats
 
-    - name: matplats2.jpg
-      text: Matplats
+    - name: utsikt_skutan.jpg
+      text: Utsikt över Skutan från matplatsen
 
-    - name: nedre-toa.jpg
-      text: Badrum nedervåning
+    - name: trappa.jpg
+      text: Trappa till övervåning
 
-    - name: vardagsrum.jpg
-      text: Vardagsrum
+    - name: vardagsrum_overvaning.jpg
+      text: Vardagsrum på övervåningen
 
-    - name: vardagsrum2.jpg
-      text: Vardagsrum
+    - name: vardagsrum_overvaning2.jpg
+      text: Vardagsrum på övervåningen
 
-    - name: vardagsrum3.jpg
-      text: Vardagsrum
+    - name: vardagsrum_overvaning3.jpg
+      text: Vardagsrum på övervåningen
 
-    - name: vardagsrum4.jpg
-      text: Vardagsrum
+    - name: toalett_overvaning.jpg
+      text: Toalett och dusch på övervåningen
 
-    - name: nedre-sovrum.jpg
-      text: Nedre sovrum
+    - name: sovrum3_overvaning.jpg
+      text: Tredje sovrummet på övervåningen
 
-    - name: ovre-sovrum-dubbel.jpg
-      text: Övre sovrum
-
-    - name: ovre-sovrum-enkel.jpg
-      text: Övre sovrum
-
-- app: 10C
-  imagefolder: /assets/images/bjornen/10C/
-  caption: "Lägenhet C | "
-
-  images:
-    - name: hall.jpg
-      text: Hall
-
-    - name: kok.jpg
-      text: Kök
-
-    - name: kok2.jpg
-      text: Kök
-
-    - name: badrum.jpg
-      text: Badrum
-
-    - name: badrum2.jpg
-      text: Badrum
-
-    - name: bastu.jpg
-      text: Bastu
-
-    - name: matplats.jpg
-      text: Matplats
-
-    - name: vardagsrum.jpg
-      text: Vardagsrum
-
-    - name: sovrum-foraldrar.jpg
-      text: Sovrum
-
-    - name: sovrum-enkel.jpg
-      text: Sovrum
-
-- app: 10D
-  imagefolder: /assets/images/bjornen/10D/
-  caption: "Lägenhet D | "
-
-  images:
-    - name: hall.jpg
-      text: Hall
-
-    - name: kok.jpg
-      text: Kök
-
-    - name: kok2.jpg
-      text: Kök
-
-    - name: badrum.jpg
-      text: Badrum
-
-    - name: bastu.jpg
-      text: Bastu
-
-    - name: matplats.jpg
-      text: Matplats
-
-    - name: vardagsrum.jpg
-      text: Vardagsrum
-
-    - name: vardagsrum2.jpg
-      text: Vardagsrum
-
-    - name: sovrum-foraldrar.jpg
-      text: Sovrum
-
-    - name: vaningsang.jpg
-      text: Sovrum
-
-    - name: vaningsang2.jpg
-      text: Sovrum
+    - name: sovrum4_overvaning.jpg
+      text: Fjärde sovrummet på övervåningen
